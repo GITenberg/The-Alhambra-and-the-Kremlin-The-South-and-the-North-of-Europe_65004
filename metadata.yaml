@@ -1,5 +1,8 @@
 _repo: The-Alhambra-and-the-Kremlin-The-South-and-the-North-of-Europe_65004
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65004-h/images/cover.jpg
 creator:
   author:
     agent_name: Prime, Samuel Irenæus
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '43097'
     url: http://www.gutenberg.org/2009/agents/43097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65004#The-Alhambra-and-the-Kremlin-The-South-and-the-North-of-Europe
 gutenberg_issued: '2021-04-06'
 gutenberg_type: Text
 identifiers:
